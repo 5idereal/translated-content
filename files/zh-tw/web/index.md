@@ -11,7 +11,7 @@ slug: Web
 
 ## 網頁開發者說明文件
 
-- [網頁開發者指南](/en-US/docs/Web/Guide)
+- [網頁開發者指南](/zh-TW/docs/Web/Guide)
   - : 提供實用教學，幫助你實際使用網頁技術來做你想做或需要做的事情。
 - [網頁開發者入門](/en-US/docs/Web/Tutorials)
   - : 帶你逐步學習 HTML、CSS、JavaScript，和 Web API。
