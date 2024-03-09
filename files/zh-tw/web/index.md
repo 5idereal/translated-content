@@ -17,7 +17,7 @@ slug: Web
   - : 帶你逐步學習 HTML、CSS、JavaScript，和 Web API。
 - [無障礙](/zh-TW/docs/Web/Accessibility)
   - : 盡可能地使所有人皆能使用你的網站，不論他們是否具有能力障礙。
-- [效能](/en-US/docs/Web/Performance)
+- [效能](/zh-TW/docs/Web/Performance)
   - : 使內容完全發揮可用性和互動性，並且越快越好。
 - [安全性](/en-US/docs/Web/Security)
   - : 保護使用者免受資料外洩和盜取、旁路攻擊，以及跨網站指令碼、內容注入，和點擊劫持等攻擊。
